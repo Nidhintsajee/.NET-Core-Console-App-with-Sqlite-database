@@ -1,0 +1,10 @@
+D:\Praseed Sir\C#\ConsoleApp.SQLite\bin\Debug\netcoreapp2.0\ConsoleApp.SQLite.deps.json
+D:\Praseed Sir\C#\ConsoleApp.SQLite\bin\Debug\netcoreapp2.0\ConsoleApp.SQLite.runtimeconfig.json
+D:\Praseed Sir\C#\ConsoleApp.SQLite\bin\Debug\netcoreapp2.0\ConsoleApp.SQLite.runtimeconfig.dev.json
+D:\Praseed Sir\C#\ConsoleApp.SQLite\bin\Debug\netcoreapp2.0\ConsoleApp.SQLite.dll
+D:\Praseed Sir\C#\ConsoleApp.SQLite\bin\Debug\netcoreapp2.0\ConsoleApp.SQLite.pdb
+D:\Praseed Sir\C#\ConsoleApp.SQLite\obj\Debug\netcoreapp2.0\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+D:\Praseed Sir\C#\ConsoleApp.SQLite\obj\Debug\netcoreapp2.0\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+D:\Praseed Sir\C#\ConsoleApp.SQLite\obj\Debug\netcoreapp2.0\ConsoleApp.SQLite.AssemblyInfo.cs
+D:\Praseed Sir\C#\ConsoleApp.SQLite\obj\Debug\netcoreapp2.0\ConsoleApp.SQLite.dll
+D:\Praseed Sir\C#\ConsoleApp.SQLite\obj\Debug\netcoreapp2.0\ConsoleApp.SQLite.pdb
